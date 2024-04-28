@@ -1,0 +1,4 @@
+name: surviving_in_donation
+version: '${version}'
+main: org.enteras.surviving_in_donation.Surviving_in_donation
+api-version: '1.20'
